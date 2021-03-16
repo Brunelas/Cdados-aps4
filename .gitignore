@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+{
+  "consumer_key":"9oFlNWtEjwiF9XYkWyuVKNWOY",
+  "consumer_secret":"KH9BKy76WPcCvO9fTBHlb72ZzdKAQVc7M9qSLXcRdDRubycpj9",
+  "access_token":"1371870983192244225-kP0iGe47IqVzbq2QQDiAV9dN12yr6n",
+  "access_token_secret":"yMSdLgCcGRKEBvVs5Nov0ufI0VEKYdhqE2L1LOFiuyo4F"
+}
